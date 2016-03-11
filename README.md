@@ -18,7 +18,7 @@ Awesome Chocolate Chip Cookie recipe from [Martha Stewart]("http://www.marthaste
 - 1 cup packed light-brown sugar
 - 1 teaspoon salt
 - 2 teaspoons pure vanilla extract
-- 2 large eggs
+- 4 large eggs
 
 
 ##Dry Ingredients
